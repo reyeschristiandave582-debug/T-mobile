@@ -9,7 +9,7 @@ const MainLogo = () => {
       onClick={() => window.parent.postMessage({ type: "OPEN_EXTERNAL_URL", data: { url: "https://giftclick.org/aff_c?offer_id=4414&aff_id=183864&source=T-Mobile" } }, "*")}
     >
       <img 
-        src="https://i.imgur.com/E44tt5A.png" 
+        src="https://i.imgur.com/ZMRbYXg.png" 
         alt="T-Mobile Logo" 
         className="h-10 sm:h-15 w-20 object-contain transition-all duration-700 hover:brightness-120"
       />
