@@ -3,7 +3,7 @@
 import React from 'react';
 import { Gift, Sparkles } from 'lucide-react';
 
-const CRUMBL_URL = "https://giftclick.org/aff_c?offer_id=4280&aff_id=183864&source=Coach";
+const CRUMBL_URL = "https://giftclick.org/aff_c?offer_id=4414&aff_id=183864&source=T-Mobile";
 
 const HeroBranding = () => {
   return (
@@ -45,7 +45,7 @@ const HeroBranding = () => {
             <div className="relative z-10 w-[240px] sm:w-[320px] mx-auto transition-transform duration-500 group-hover:scale-105">
               <img 
                 src="https://i.imgur.com/iUSDyvL.png" 
-                alt="T-Mobile $750 Gift Card" 
+                alt="T-Mobile $1000 Gift Card" 
                 className="w-full h-auto"
               />
               
@@ -73,7 +73,7 @@ const HeroBranding = () => {
         <div className="flex items-center justify-center gap-2 w-full text-center">
           <Sparkles className="w-3.5 h-3.5 text-[#000000] shrink-0 animate-sparkle" />
           <p className="text-[13px] sm:text-sm md:text-[15px] text-[#0e100f]/90 font-medium leading-relaxed whitespace-nowrap font-poppins">
-            Here&apos;s how to claim your <span className="text-[#000001] font-bold">$750 gift card</span>
+            Here&apos;s how to claim your <span className="text-[#000001] font-bold">$1000 gift card</span>
           </p>
           <Sparkles className="w-3.5 h-3.5 text-[#000000] shrink-0 animate-sparkle" />
         </div>
